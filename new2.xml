@@ -4,5 +4,7 @@
 		<Age>25</Age>
 		<Pets>Cat</Pets>
 		<Salary>500$</Salary>
+		<Film>Harry_Potter</Film>
+		<Food>Sushi</Food>
 
 </root>	
